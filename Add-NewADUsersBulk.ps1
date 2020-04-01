@@ -1,7 +1,5 @@
 ﻿#Add-NewADUsersBulk.ps1
-#March 2, 2018
-#Rob Panio
-
+ 
 #Synopsis
 #This script uses a csv file to create new AD users.
 #Note: A csv file has to be created and is by default
