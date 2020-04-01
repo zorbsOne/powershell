@@ -1,6 +1,4 @@
 ﻿#Set-UnlockADUsers.ps1
-#April 4, 2018
-#Rob Panio
 
 #Synopsis
 #This is a script pulls all the AD users that are locked out and un locks them.
