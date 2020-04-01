@@ -1,6 +1,4 @@
 ﻿#Get-ADComputersPing.ps1
-#Rob Panio
-#April 4, 2018
 
 #Synopsis
 #This script pings all the enabled AD computers 
