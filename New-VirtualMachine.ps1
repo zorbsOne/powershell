@@ -1,6 +1,4 @@
 ﻿#New-VirtualMachine
-#Rob Panio
-#March 29, 2018
 
 #Synopsis
 #This script uses default parameters set by the user to quickly create a differencing virtual hard drive and virtual machine.
