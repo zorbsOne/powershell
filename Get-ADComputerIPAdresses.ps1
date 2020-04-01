@@ -1,7 +1,5 @@
 ﻿#Get-ADComputerIPAdresses
-#Rob Panio
-#March 21, 2018
-
+ 
 #Synopsis
 
 #This creates a list of the IP addresses of AD computers.
