@@ -1,6 +1,4 @@
 ﻿#Get-ADAccounts.ps1
-#Rob Panio
-#March 15, 2018
 
 #Synopsis
 #This script displays all the active or disabled user accounts in your active directory
