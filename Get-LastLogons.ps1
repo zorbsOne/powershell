@@ -1,6 +1,5 @@
 ﻿#Get-LastLogons.ps1
-#April 4, 2018
-#Modified by Rob Panio (changed a few things and added comments)
+
 #Source https://social.technet.microsoft.com/Forums/lync/en-US/4f6815f1-2998-484c-a423-fe6507f1548c/powershell-script-to-fetch-logonlogoff-user-on-particular-server-getwinevent-geteventlog?forum=winserverpowershell
 
 #Synopsis
