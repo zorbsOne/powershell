@@ -1,6 +1,4 @@
 ﻿#Get-DiskFreeSpace
-#March 9, 2018
-#Rob Panio
 
 #Synopsis
 #This script checks the free space of logical disks.
