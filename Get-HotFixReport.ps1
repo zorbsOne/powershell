@@ -1,6 +1,4 @@
 ﻿#Get-HotFixReport.ps1
-#April 4, 2018
-#Rob Panio
 
 #Synopsis
 #This script pulls HotFixes from computer(s) and exports them in a html report.
