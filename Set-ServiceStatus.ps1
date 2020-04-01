@@ -1,6 +1,4 @@
 ﻿#Set-ServiceStatus.ps1
-#Steve Holden
-#March 22, 2018
 
 #Synopsis
 #This Script asks the user for a service, check the status of the service and reports it to the screen.
