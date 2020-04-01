@@ -1,6 +1,4 @@
 ﻿#Get-ServicesStatus.ps1
-#April 4, 2018
-#Rob Panio
 
 #Synopsis
 #This is a script pulls a list of services on a local computer(default) or 
