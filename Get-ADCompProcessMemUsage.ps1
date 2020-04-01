@@ -1,6 +1,4 @@
 ﻿#Get-ADCompProcessMemUsage
-#Rob Panio
-#March 21, 2018
 
 #Synopsis
 
