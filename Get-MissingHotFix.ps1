@@ -1,7 +1,5 @@
 ﻿#Get-MissingHotFix.ps1
-#April 4, 2018
-#Rob Panio modified from Powershell help Get-HotFix example.
-
+ 
 #Synopsis
 #This script pulls a report of AD computers that are missing a 
 #specified HotFix ID creates text file listing them.
