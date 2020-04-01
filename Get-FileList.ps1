@@ -1,6 +1,4 @@
 ﻿#Get-FileList.ps1
-#Rob Panio
-#March 15, 2018
 
 #Synopsis
 #This script will list all the files of a certain type,
