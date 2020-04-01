@@ -1,6 +1,4 @@
 ﻿#Reset-UserPassword.ps1
-#April 4, 2018
-#Rob Panio
 
 #Synopsis
 #This is a script lets you reset an AD user or multiple users' passwords 
