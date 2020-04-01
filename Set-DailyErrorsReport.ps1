@@ -1,7 +1,4 @@
 ﻿#Set-DailyErrorsReport.ps1
-#April 4, 2018
-#Rob Panio adapted from Learn Powershell in a Month of Lunches 3rd Edition by
-#Don Jones and Jeffery Hicks.
 
 #Synopsis
 #This is a script creates a background job that will get the latest n errors
