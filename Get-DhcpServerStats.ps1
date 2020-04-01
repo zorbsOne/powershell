@@ -1,6 +1,4 @@
 ﻿#Get-DhcpServerStats
-#Rob Panio
-#March 29, 2018
 
 #Synopsis
 
